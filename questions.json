@@ -1,0 +1,55 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "John has two pieces of ribbon. One ribbon is 13/14 meters long, and the other is 13/15 meters long. Which ribbon is longer?",
+      "options": [
+          "The ribbon that is 13/14 meter long",
+          "The ribbon that is 13/15 meter long",
+          "Both ribbons are of the same length",
+          "Cannot be determined"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Are the following pair of fractions equivalent to each other?<br> 3/5 = 15/25",
+      "options": [
+          "True",
+          "False"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q3",
+      "question": "A group of friends shared a pizza. Alice ate 3/8 of the pizza, Bob ate 3/4, and Carol ate 3/5. Arrange the fractions in descending order based on how much pizza each person ate.",
+      "options": [
+          "3/4, 3/5, 3/8",
+          "3/8, 3/5, 3/4",
+          "3/4, 3/8, 3/5",
+          "3/5, 3/8, 3/4"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q4",
+      "question": "Two tanks have the same amount of water. Tank A has 117/212 of its total capacity filled, while Tank B has 117/213 of its total capacity filled. Which tank has more water?",
+      "options": [
+          "Tank A",
+          "Tank B",
+          "Both have the same amount of water",
+          "Cannot be determined"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q5",
+      "question": "Three friends are comparing the distances they walked. Friend A walked 13/18 of a mile, Friend B walked 13/15 of a mile, and Friend C walked 13/14 of a mile. Arrange the distances in ascending order.",
+      "options": [
+          "13/14, 13/18, and 13/15",
+          "13/15, 13/18, and 13/14",
+          "13/14, 13/15, and 13/18",
+          "13/18, 13/15, and 13/14"
+      ],
+      "correct": 3
+  }
+]
